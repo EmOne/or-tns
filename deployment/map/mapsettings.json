@@ -2,10 +2,10 @@
   "options": {
     "default": {
       "center": [ 100.96977597984724, 13.492966892965512],
-      "bounds" : [ 96.35, 4.69, 106.19, 16.79 ],
-      "zoom" : 16,
-      "minZoom" : 0,
-      "maxZoom" : 22,
+      "bounds" : [ 100.49, 13.37, 101.08, 13.73 ],
+      "zoom" : 15,
+      "minZoom" : 10,
+      "maxZoom" : 18,
       "boxZoom": true,
       "geocodeUrl" : "https://nominatim.openstreetmap.org"
     }
