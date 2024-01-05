@@ -7,6 +7,7 @@
       "minZoom" : 10,
       "maxZoom" : 18,
       "boxZoom": true,
+      "style": "satellite",
       "geocodeUrl" : "https://nominatim.openstreetmap.org"
     }
   },
